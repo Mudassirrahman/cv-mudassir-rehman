@@ -78,7 +78,7 @@ function App() {
         <ul>
           <li>
             <h3>Front End Web Developer</h3>
-            <p>Mudirr.com | 2022 - Present</p>
+            <p>Mudirr.com |Nav 2022 to Feb 2023</p>
             <ul>
               <li>
                 Developed responsive web pages using ReactJs and Next.Js
